@@ -1,2 +1,2 @@
 # Analytics-Code
-A collection of code created for Advanced Business Analytics course demonstrating proficiency in Python, data cleaning, visualization, and several other topics. We used R programming language in Google colab to create and explain data visualizations. 
+A collection of code created for Advanced Business Analytics course using R programming language in Google colab. This course covered how to create visualizations and models and emphasized the importance of being able to explain those models.
